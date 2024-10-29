@@ -20,7 +20,6 @@
 
 1. [https://ai.ninebotai.com](https://ai.ninebotai.com/) —— 运营时长一年半，注册免费使用，支持GPT4、GPT4o，有丰富的智能插件，论文在线生成
 2. https://ai.ckai.xyz/ —— 运营时长一年，支持GPT4、GPT4o，有丰富的智能插件。
-3. http://gptdog.online/ —— 运营时长一年半，bug比较多，大家可以看情况使用。
 
 ## 国内AI大模型
 
