@@ -77,7 +77,7 @@
         </tr>
         <tr>
             <td>2</td>
-            <td> <a href="https://ai.ninebotai.com" target="_blank">[https://freegpt.tech](https://ai.ninebotai.com)</a>
+            <td> <a href="https://vip.aizoom.top/" target="_blank">https://vip.aizoom.top</a>
                 <br> </td>
             <td>
                         🏆
